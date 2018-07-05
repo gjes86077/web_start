@@ -1,0 +1,11 @@
+@import "var";
+.container {
+  max-width: 960px;
+  width: 100%;
+  text-align: center;
+}
+
+body {
+  color: $danger;
+  background: $primary;
+}
